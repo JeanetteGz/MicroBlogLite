@@ -4,7 +4,7 @@ _ChatterGrape allows users to register, login, logout, make post, delete post, l
 
 # Live Preview
 
-[ChatterGrape Live Preview Site](https://jewelsonmyjeans.github.io/microbloglite-capstone-starter/)
+[ChatterGrape Live Preview Site](https://jeanettegz.github.io/MicroBlogLite/)
 - Note that this live preview will not work due to URL being secured (https instead of http)
 
 # Preview
